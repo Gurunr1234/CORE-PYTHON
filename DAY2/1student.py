@@ -19,3 +19,4 @@ print(s1.addr)
 
 s1.eat()
 s1.study()
+print("hi")
