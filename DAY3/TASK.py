@@ -14,6 +14,7 @@ if insert_card.lower() == "yes":
         print("2. kannada")
         print("3. Hindi")
         language = int(input("Enter your choice: "))
+        
         if (language == 1):
             print("SELECT YOUR OPTION")
             print("1. Cash Withdrawal")
@@ -57,7 +58,7 @@ if insert_card.lower() == "yes":
                 print("Invalid option selected. Please try again.")
 
         print("Thank you, visit again!")
-        
+
     else:
         print("Incorrect pin. Please try again.")
 
