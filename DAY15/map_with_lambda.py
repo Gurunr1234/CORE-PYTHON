@@ -8,5 +8,5 @@ while i <= 4:
 
 print(L)
 
-k = list(map(lambda num: (num + 10), L))
+k = list(map(lambda data: (data + 10), L))
 print(k)
