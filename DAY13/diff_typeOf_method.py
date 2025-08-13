@@ -16,6 +16,7 @@ class Demo:
     def classDisp(cls):
         print("python")
         print(cls.a)
+        print(d1.b)
 
 d1 = Demo()
 d1.instaceDisp()
